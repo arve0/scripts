@@ -1,0 +1,22 @@
+{
+  "name": "scripts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "itssvar.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arve0/scripts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arve0/scripts/issues"
+  },
+  "homepage": "https://github.com/arve0/scripts#readme",
+  "dependencies": {
+    "sprintf-js": "^1.0.3"
+  }
+}
