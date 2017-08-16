@@ -13,4 +13,4 @@ hoyder = append(jenter, gutter)
 
 utskrift = [("%d" % h) for h in hoyder]
 
-print("\t".join(utskrift))
+print("    ".join(utskrift))

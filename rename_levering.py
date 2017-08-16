@@ -2,7 +2,9 @@
 # Flytt itslearning innleveringer fra "elev/fil" til "elev fil".
 # Bruk:
 # Gå til katalogen med elevmappene "Etternavn_Fornavn (brukernavn)".
-# Kjør denne filen python "c:\mappe\til\rename_innlevering.py"
+# 
+# Kjør denne filen: 
+#   python "C:\Users\arvse\Documents\GitHub\scripts\rename_levering.py"
 ##
 
 from pathlib import Path
